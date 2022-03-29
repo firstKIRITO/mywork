@@ -1,0 +1,6 @@
+{
+    "require": {
+        "coderlast/clframework": "^3.2",
+        "thingengineer/mysqli-database-class": "dev-master"
+    }
+}
